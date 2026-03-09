@@ -1,0 +1,8 @@
+com\mycompany\evidencia1\JakartaRestConfiguration.class
+model\RegIMC.class
+util\ConexionDB.class
+com\mycompany\evidencia1\resources\JakartaEE10Resource.class
+model\Usuario.class
+servlet\IMCServlet.class
+servlet\LoginServlet.class
+servlet\RegistroServlet.class
