@@ -88,6 +88,8 @@ public class IMCServlet extends HttpServlet {
             }
 
         } catch (ServletException | IOException | SQLException e) {
+          e.printStackTrace();
+          response.getWriter().println("Error al calcular IMC");
         }
 
     }
